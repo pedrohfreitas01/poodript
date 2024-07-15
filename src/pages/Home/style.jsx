@@ -20,7 +20,7 @@ export const Image = styled.img`
 `;
 
 
-export const InputLabel = styled.p`
+export const Label = styled.p`
   color: #eee;
   font-family: Roboto;
   font-size: 18px;
@@ -28,4 +28,15 @@ export const InputLabel = styled.p`
   font-weight: 700;
   line-height: 22px; /* 122.222% */
   letter-spacing: -0.408px;
+  margin: 76px 0px 4px 10px;
+`;
+
+export const Input = styled.input`
+  display: flex;
+  padding: 19px 139px 18px 15px;
+  align-items: center;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.25);
+  border: 0;
+  outline: none;
 `;

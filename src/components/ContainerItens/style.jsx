@@ -11,5 +11,5 @@ export const ContainerItens = styled.div`
 
     height: 100%;
 
-    border: 1px solid wheat;
+    /* border: 1px solid wheat; */
 `
