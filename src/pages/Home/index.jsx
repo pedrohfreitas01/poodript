@@ -1,8 +1,6 @@
 import React from 'react'
 
 import homeLogo from '../../assets/homeLogo.png'
-
-
 import { Container,Image,Input,Label } from './style'
 import { H1 } from "../../components/Title/style";
 import ContainerItens from '../../components/ContainerItens';
